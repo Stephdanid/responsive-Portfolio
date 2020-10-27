@@ -3,3 +3,17 @@
   color: white!important;
   font-weight: 700;
 }
+
+h1 
+{color:#2d5c5c;
+font-weight: 900;
+
+
+}
+
+body
+{
+    background-image: url("../pictures/backgroundImagePortfolio.jpg");
+    background-color: #cccccc;
+  }
+  p {color:#499595}
