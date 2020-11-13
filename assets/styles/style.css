@@ -1,24 +1,30 @@
 .navbar-brand {
-  background-color: #66cccc;
-  color: white !important;
-  font-weight: 700;
+    background-color: #66cccc;
+    color: white !important;
+    font-weight: 700;
 }
 
 h1 {
-  color: #2d5c5c;
-  font-weight: 900;
-  text-decoration: underline;
+    color: #2d5c5c;
+    font-weight: 900;
+    text-decoration: underline;
 }
 
 body {
-  background-image: url("../pictures/backgroundImagePortfolio.jpg");
-  background-color: #fbfbfb;
+    background-image: url("../pictures/backgroundImagePortfolio.jpg");
+    background-color: #fbfbfb;
 }
+
 p {
-  color: #499595;
-  background-color: #fbfcfc;
+    color: #499595;
+    background-color: #fbfcfc;
 }
+
 .container {
-  background-color: #fbfcfc;
-  color: #4d817c;
+    background-color: #fbfcfc;
+    color: #4d817c;
+}
+
+.contact {
+    align-content: center;
 }
